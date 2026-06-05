@@ -1,4 +1,12 @@
 {
+  "name": "my-world-cup-webapp",
+  "version": "1.0.0",
+  "description": "Plataforma de análisis y seguimiento del Mundial - Desarrollado por Jacobo Niño",
+  "author": "Jacobo Niño",
+  "private": true,
+  ...
+}
+{
     "name": "react-hello-advance",
     "private": true,
     "version": "0.0.0",
